@@ -1,7 +1,7 @@
 # Open Source Audit
 
-**Student Name:** [Your Name Here]  
-**Student ID:** [Your ID Here]  
+**Student Name:** Samarth Prakash  
+**Student ID:** 24BAI10857  
 **Chosen Software:** Git (Version Control System)
 
 ## Project Description
