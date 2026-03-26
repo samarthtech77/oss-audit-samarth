@@ -1,0 +1,14 @@
+======================================
+FOSS Package Inspector
+======================================
+
+Git is installed!
+Version  : git version 2.34.1
+Summary  : Distributed version control system
+License  : GPL-2.0
+
+Inspecting python3...
+Status       : Installed
+Description  : High-level programming language
+
+======================================

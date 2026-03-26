@@ -1,0 +1,13 @@
+======================================
+System Identity Report
+======================================
+
+Date/Time        : 2026-03-26 10:15:32
+Logged in User   : jsmith
+Home Directory   : /home/jsmith
+Operating System : Ubuntu 22.04.4 LTS
+Kernel Version   : 5.15.0-101-generic
+System Uptime    : up 2 hours, 14 minutes
+
+License Notice: This project is released under the GNU General Public License (GPL).
+======================================

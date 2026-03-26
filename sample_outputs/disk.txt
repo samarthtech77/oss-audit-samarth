@@ -1,0 +1,14 @@
+======================================
+Disk and Permission Auditor
+======================================
+
+DIRECTORY        PERMISSIONS    OWNER    SIZE
+------------------------------------------------
+/etc             drwxr-xr-x     root     12M
+/var/log         drwxrwxr-x     root     340M
+/home            drwxr-xr-x     root     4.0K
+/usr/bin         drwxr-xr-x     root     315M
+/tmp             drwxrwxrwt     root     8.0K
+/home/jsmith/.git drwxr-xr-x    jsmith   160K
+
+======================================

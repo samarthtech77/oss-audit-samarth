@@ -1,0 +1,13 @@
+======================================
+My Open Source Manifesto
+======================================
+
+As a developer who primarily works with Python, I strongly believe in the power of open source. 
+Projects like the Linux Kernel have shown how collaboration can lead to robust and scalable systems.
+
+I believe open source breaks down barriers to technology and allows people from different backgrounds 
+to contribute and learn together.
+
+By sharing code and ideas freely, we can build better and more inclusive technology for the future.
+
+======================================

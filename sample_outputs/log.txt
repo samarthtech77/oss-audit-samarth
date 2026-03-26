@@ -1,0 +1,17 @@
+======================================
+Log File Analyzer
+======================================
+
+Searching for keyword 'error' in /var/log/syslog...
+
+Total matches found: 12
+
+Last 5 occurrences:
+------------------------------------------------
+Mar 26 10:01:45 ubuntu-server systemd[1]: Failed to start OpenBSD Secure Shell server.
+Mar 26 10:05:12 ubuntu-server kernel: EXT4-fs (sda1): error count since last fsck: 2
+Mar 26 10:05:12 ubuntu-server kernel: EXT4-fs (sda1): initial error detected
+Mar 26 10:12:03 ubuntu-server sshd[4512]: invalid log facility error
+Mar 26 10:14:22 ubuntu-server sudo: authentication failure for user jsmith
+
+======================================
