@@ -1,13 +1,13 @@
 ======================================
-System Identity Report
+    System Identity Report
 ======================================
+Date/Time: 2026-03-29 23:58:10
+Author Name: Samarth Prakash
+Logged in User: samarth
+Home Directory: /home/samarth
+Operating System: Ubuntu 22.04.4 LTS
+Kernel Version: 5.15.0-91-generic
+System Uptime: up 3 hours, 45 minutes
 
-Date/Time        : 2026-03-26 10:15:32
-Logged in User   : jsmith
-Home Directory   : /home/jsmith
-Operating System : Ubuntu 22.04.4 LTS
-Kernel Version   : 5.15.0-101-generic
-System Uptime    : up 2 hours, 14 minutes
-
-License Notice: This project is released under the GNU General Public License (GPL).
+License Notice: This script and related project files are released under the GNU General Public License (GPL) v3.0.
 ======================================
