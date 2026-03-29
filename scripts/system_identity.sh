@@ -1,10 +1,14 @@
 #!/bin/bash
 # system_identity.sh - Gathers basic system info
 # Written for Open Source Audit capstone
+# Author: Samarth Prakash | Course: Open Source Software
 
 echo "======================================"
 echo "    System Identity Report"
 echo "======================================"
+
+# --- YOUR NAME (ADD THIS) ---
+AUTHOR_NAME="Samarth Prakash"
 
 OS_NAME=$(grep PRETTY_NAME /etc/os-release 2>/dev/null | cut -d '"' -f 2 || echo "Linux")
 KERNEL_VER=$(uname -r)
@@ -13,6 +17,7 @@ UPTIME_VAL=$(uptime -p 2>/dev/null || uptime | awk '{print $3,$4}')
 CURRENT_DATE=$(date "+%Y-%m-%d %H:%M:%S")
 
 echo "Date/Time: $CURRENT_DATE"
+echo "Author Name: $AUTHOR_NAME"
 echo "Logged in User: $LOGGED_IN"
 echo "Home Directory: $HOME"
 echo "Operating System: $OS_NAME"
