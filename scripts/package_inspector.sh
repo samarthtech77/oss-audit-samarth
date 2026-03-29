@@ -1,5 +1,6 @@
 #!/bin/bash
 # package_inspector.sh - Checks FOSS packages
+# Author: Samarth Prakash | Course: Open Source Software
 
 echo "======================================"
 echo "      FOSS Package Inspector"

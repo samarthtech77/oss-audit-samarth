@@ -1,5 +1,6 @@
 #!/bin/bash
 # disk_auditor.sh - Checks disk permissions of key directories
+# Author: Samarth Prakash | Course: Open Source Software
 
 echo "======================================"
 echo "      Disk and Permission Auditor"

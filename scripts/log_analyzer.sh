@@ -1,5 +1,6 @@
 #!/bin/bash
 # log_analyzer.sh - Analyzes logs for specific keywords
+# Author: Samarth Prakash | Course: Open Source Software
 
 echo "======================================"
 echo "          Log File Analyzer"

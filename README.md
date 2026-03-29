@@ -42,6 +42,9 @@ This repository contains an executable suite of Bash scripts demonstrating funda
 - **`log_analyzer.sh`**: Prompts the user for a log path and keyword, handles potential errors gracefully (like empty files), and prints the last few matches.
 - **`manifesto_generator.sh`**: Interactively collects user inputs to auto-generate and save a personalized "Open Source Manifesto" document.
 
+## Tested Environment
+Scripts were tested in Git Bash (Windows) and are compatible with Linux systems like Ubuntu.
+
 ## Example Commands & Expected Outputs
 
 **Command Example:**

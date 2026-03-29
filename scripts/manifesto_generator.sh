@@ -1,5 +1,6 @@
 #!/bin/bash
 # manifesto_generator.sh - Generates a personal Open Source Manifesto
+# Author: Samarth Prakash | Course: Open Source Software
 
 echo "======================================"
 echo "    Open Source Manifesto Generator"
